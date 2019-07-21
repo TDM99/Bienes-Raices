@@ -313,3 +313,11 @@ h4 {
 label{
     display: block;
 }
+
+input[type="text"]{
+    padding: 1rem;
+    display: block;
+    width: 100%;
+    background-color: #e1e1e1;
+    margin-bottom: 2rem;
+}
